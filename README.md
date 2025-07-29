@@ -2,7 +2,6 @@
 
 A full-stack web-based Notes App built with **Flask**, **MySQL**, **HTML/CSS**, and **JavaScript**. The app allows users to create and view timestamped notes with a clean and intuitive interface.
 
----
 
 ## 🔧 Tech Stack
 
@@ -10,7 +9,6 @@ A full-stack web-based Notes App built with **Flask**, **MySQL**, **HTML/CSS**, 
 - **Backend**: Python (Flask)
 - **Database**: MySQL
 
----
 
 ## 🚀 Features
 
@@ -20,7 +18,6 @@ A full-stack web-based Notes App built with **Flask**, **MySQL**, **HTML/CSS**, 
 - 💾 Persistent storage in MySQL database
 - 🖥️ Responsive and minimal UI
 
----
 
 ## Author 
 Hima Deepika
